@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const WEBHOOK_URL = "https://discord.com/api/webhooks/1499513245130559658/khhAHFvYxX-TiEqaji-P1qo6M1_tD3EuG6EwK2opWyIrJiuC2yvRCaLMij2MPY79rgxI";
+    const WEBHOOK_URL = "https://discord.com/api/webhooks/1499517425438294108/MG34oXvRkdltsXLHYPYdiSnJO1Cv9KlzD5VB3oAYsl9Ra4In9Bpnz1B65czCWesOCsrQ";
 
     // 1. Recolectar datos
     const data = {
